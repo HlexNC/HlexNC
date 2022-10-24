@@ -2,11 +2,32 @@
 
 ---
 
+### 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=fb4f14)
+![](https://img.shields.io/badge/Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=fb4f14)
+<a href="#"><img src="https://img.shields.io/badge/Code-C Sharp-_.svg?logo=csharp&logoColor=white&color=fb4f14"></a>
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=fb4f14)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=fb4f14)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=fb4f14)
+![](https://img.shields.io/badge/Tools-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=fb4f14)
+![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=fb4f14)
+![](https://img.shields.io/badge/Tools-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=fb4f14)
+
 ### 📊 GitHub Stats:
 
-![HlexNC github stats](https://github-readme-stats.vercel.app/api?username=hlexnc&theme=monokai&show_icons=true&count_private=true)
-  
- 
-![HlexNC Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hlexnc&theme=solarized_dark)
-![HlexNC Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hlexnc&theme=solarized_dark)
-![HlexNC Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hlexnc&theme=solarized_dark)
+<a href="https://github.com/HlexNC/HlexNC/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HlexNC&show_icons=true&line_height=27&layout=compact&count_private=true&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adam's GitHub Stats" />
+</a> <br>
+
+<a href="https://github.com/HlexNC/HlexNC/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HlexNC&layout=compact&hide=java,html,tex,ruby,shell,pascal&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
+</a> <br>
+
+<a href="https://github.com/HlexNC/WildForFood">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HlexNC&repo=WildForFood&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> <br>
+
+<a href="https://github.com/HlexNC/BlendMyAttempts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HlexNC&repo=BlendMyAttempts&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
