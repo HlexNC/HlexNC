@@ -20,9 +20,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HlexNC&show_icons=true&line_height=27&layout=compact&count_private=true&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adam's GitHub Stats" />
 </a> <br>
 
+<!-- 
 <a href="https://github.com/HlexNC/HlexNC/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HlexNC&layout=compact&hide=java,html,tex,ruby,shell,pascal&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
 </a> <br>
+-->
 
 <a href="https://github.com/HlexNC/WildForFood">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HlexNC&repo=WildForFood&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
