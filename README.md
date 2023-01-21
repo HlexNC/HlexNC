@@ -17,8 +17,10 @@
 ### 📊 GitHub Stats:
 
 <a href="https://github.com/HlexNC/HlexNC/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HlexNC&show_icons=true&line_height=27&layout=compact&count_private=true&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adam's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HlexNC&show_icons=true&line_height=27&layout=compact&count_private=true&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 </a> <br>
+
+![github-user-contribution](https://user-images.githubusercontent.com/66517969/213871601-21b70393-f1c3-4088-bbc1-d755888a322e.svg)
 
 <!-- 
 <a href="https://github.com/HlexNC/HlexNC/">
