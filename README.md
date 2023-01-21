@@ -16,9 +16,12 @@
 
 ### 📊 GitHub Stats:
 
-<a href="https://github.com/HlexNC/HlexNC/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HlexNC&show_icons=true&line_height=27&layout=compact&count_private=true&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-</a> <br>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=HlexNC&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="HlexNC" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HlexNC&theme=dark" alt="HlexNC" /></td>
+  </tr>
+</table>
 
 ![github-user-contribution](https://user-images.githubusercontent.com/66517969/213871601-21b70393-f1c3-4088-bbc1-d755888a322e.svg)
 
