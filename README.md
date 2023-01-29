@@ -1,12 +1,16 @@
 <p align=left>
   <strong> ◤</strong>
 </p>
+ 
+<br>
 
 <p align=center>
   <samp>
   "Code is not just a tool, it's an art form that requires patience, creativity and passion" <br> - Anonymous Developer
   </samp>
 </p>
+ 
+<br>
 
 <p align=right>
   <strong>◢ </strong>
