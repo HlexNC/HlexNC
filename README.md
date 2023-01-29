@@ -1,3 +1,17 @@
+<p align=left>
+  <strong> ◤</strong>
+</p>
+
+<p align=center>
+  <samp>
+  "Code is not just a tool, it's an art form that requires patience, creativity and passion" <br> - Anonymous Developer
+  </samp>
+</p>
+
+<p align=right>
+  <strong>◢ </strong>
+</p>
+<!-- 
 <img src="https://user-images.githubusercontent.com/66517969/119510576-4c60bc80-bd7a-11eb-8cab-598f747d3f7d.png">
 
 ---
@@ -25,7 +39,7 @@
 
 ![github-user-contribution](https://user-images.githubusercontent.com/66517969/213871601-21b70393-f1c3-4088-bbc1-d755888a322e.svg)
 
-<!-- 
+
 <a href="https://github.com/HlexNC/HlexNC/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HlexNC&layout=compact&hide=java,html,tex,ruby,shell,pascal&title_color=fb4f14&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
 </a> <br>
