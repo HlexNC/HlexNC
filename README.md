@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a first-year Computer Science student at the U
 class Developer:
     def __init__(self, name):
         self.name = name
-        self.languages = ["Kotlin", "Java", "C#"]
-        self.tools = ["Visual Studio", "Git", "Jira"]
+        self.languages = ["Kotlin", "Python", "Java", "C#"]
+        self.tools = ["Visual Studio", "Git", "Jira", "AWS"]
         self.currently_learning = "Advanced Programming Concepts"
 
     def say_hello(self):
