@@ -28,6 +28,7 @@ print(me.say_hello())
 ## What I've been up to 🚀
 
 - 🐔 Creating ChickenVision, a fun AR mobile app.
+- 🦄 Developed UNICorn, an AI university assistant.
 - 🎨 Mastered 3D modelling with Blender.
 - 🦊 Created WildForFood, a web Unity game.
 
