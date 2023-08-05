@@ -4,7 +4,7 @@
   <strong> ◤</strong>
 </p>
 
-Welcome to my GitHub profile! I'm a first-year Computer Science student at the University of Nicosia. To me, coding is an art form that requires patience, creativity, and passion. As an aspiring software developer, I'm driven by my curiosity and love for solving complex problems.
+Welcome to my GitHub profile! I'm a first-year Computer Science student at the University of Nicosia. As an aspiring software developer, I'm driven by my curiosity and love for solving complex problems.
 
 ```python
 class Developer:
@@ -27,7 +27,7 @@ print(me.say_hello())
 
 ## What I've been up to 🚀
 
-- 🐔 Created ChickenVision, a fun AR mobile app.
+- 🐔 Creating ChickenVision, a fun AR mobile app.
 - 🎨 Mastered 3D modelling with Blender.
 
 ## What I'm learning 📚
@@ -43,7 +43,7 @@ print(me.say_hello())
 - **3D Modeling:** Blender, Autodesk Inventor
 - **Front-end:** React, Three.js, HTML5, Xamarin
 - **Back-end:** .NET Core, AWS, Django, REST API
-- **Programming:** C#, C++, Kotlin, Python, Node.js
+- **Programming:** C#, C++, Kotlin, Python, Node.js, Next.js
 
 ## Get in touch 📬
 
