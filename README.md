@@ -29,6 +29,7 @@ print(me.say_hello())
 
 - 🐔 Creating ChickenVision, a fun AR mobile app.
 - 🎨 Mastered 3D modelling with Blender.
+- 🦊 Created WildForFood, a web Unity game.
 
 ## What I'm learning 📚
 - 🌐 Expanding my knowledge in Kotlin, Java, and C#.
