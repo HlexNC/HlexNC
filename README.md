@@ -29,8 +29,9 @@ print(me.say_hello())
 
 - 🐔 Creating ChickenVision, a fun AR mobile app.
 - 🦄 Developed UNICorn, an AI university assistant.
-- 🎨 Mastered 3D modelling with Blender.
+- 🎨 Mastered 3D modeling with Blender.
 - 🦊 Created WildForFood, a web Unity game.
+- 📚 Developed Markdown to Word, Pptx, Google Docs conversion algorithms.
 
 ## What I'm learning 📚
 - 🌐 Expanding my knowledge in Kotlin, Java, and C#.
