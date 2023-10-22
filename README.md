@@ -53,6 +53,6 @@ print(me.say_hello())
 
 - Check out my [LinkedIn](https://www.linkedin.com/in/hlexnc/) to see what I'm up to professionally.
 - Follow me on [Twitter](https://twitter.com/HlexNC) for some tech talk and coffee love.
-- Feel free to [email](mailto:hlexhelftd@gmail.com) me if you have any exciting opportunities, need some advice, or simply want to chat!
+- Feel free to [Email](mailto:hlexhelftd@gmail.com) me if you have any exciting opportunities, need some advice, or simply want to chat!
 
 Happy coding! 💻
