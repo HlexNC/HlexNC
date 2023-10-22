@@ -39,7 +39,8 @@ print(me.say_hello())
 
 ## Education 🎓
 
-- 🏫 Currently pursuing a Bachelor's degree in Computer Science at the University of Nicosia.
+- 🤖 Currently pursuing a Bachelor's degree in Artificial Intelligence at Deggendorf Institute of Technology.
+- 🏫 Previously pursued a Bachelor's in Computer Science at the University of Nicosia.
 
 ## Skills 💻
 
