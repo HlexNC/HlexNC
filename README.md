@@ -27,14 +27,15 @@ print(me.say_hello())
 
 ## What I've been up to 🚀
 
-- 🐔 Creating ChickenVision, a fun AR mobile app.
+- 🌱 Developing Zelara-AI, a Computer Vision webapp for Plants.
+- 🐔 Worked on ChickenVision, a fun AR mobile app.
 - 🦄 Developed UNICorn, an AI university assistant.
 - 🎨 Mastered 3D modeling with Blender.
 - 🦊 Created WildForFood, a web Unity game.
 - 📚 Developed Markdown to Word, Pptx, Google Docs conversion algorithms.
 
 ## What I'm learning 📚
-- 🌐 Expanding my knowledge in Kotlin, Java, and C#.
+- 🌐 Expanding my knowledge in Cloud Computing.
 - 💡 Diving deeper into advanced programming concepts.
 
 ## Education 🎓
@@ -45,9 +46,9 @@ print(me.say_hello())
 ## Skills 💻
 
 - **3D Modeling:** Blender, Autodesk Inventor
-- **Front-end:** React, Three.js, HTML5, Xamarin
-- **Back-end:** .NET Core, AWS, Django, REST API
-- **Programming:** C#, C++, Kotlin, Python, Node.js, Next.js
+- **Back-end Development:** .NET Core, AWS, Django, REST API
+- **Frameworks & Tools:** Node.js, Next.js, Docker
+- **Programming Languages:** C#, C++, Kotlin, Python, TypeScript
 
 ## Get in touch 📬
 
