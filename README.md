@@ -11,8 +11,8 @@ class Developer:
     def __init__(self, name):
         self.name = name
         self.languages = ["Kotlin", "Python", "Java", "C#"]
-        self.tools = ["Visual Studio", "Git", "Jira", "AWS"]
-        self.currently_learning = "Advanced Programming Concepts"
+        self.tools = ["Visual Studio", "Git", "Jira", "AWS", "Docker"]
+        self.currently_learning = "Multi-container applications"
 
     def say_hello(self):
         return f"Hi there, I'm {self.name}! Welcome to my GitHub profile!"
