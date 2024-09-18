@@ -47,8 +47,9 @@ print(me.say_hello())
 ## Skills 💻
 
 - **3D Modeling:** Blender, Autodesk Inventor
-- **Back-end Development:** .NET Core, AWS, Django, REST API, ExpressJS, FastAPI
-- **Frameworks & Tools:** Node.js, Next.js, Docker, Postman
+- **Web Development:** React, Next.js, HTML5, SS3, Node.js, Express.js, Django, REST APIs
+- **Back‑end Development:** .NET, FastAPI, Microservices, SQL, Containerization. 
+- **DevOps & Tools:** Docker, GitHub Actions, Git, AWS, Azure, Docker, Postman
 - **Programming Languages:** C#, C++, Kotlin, Python, TypeScript, Javascript
 
 ## Get in touch 📬
