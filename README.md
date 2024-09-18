@@ -27,15 +27,16 @@ print(me.say_hello())
 
 ## What I've been up to 🚀
 
+- 🌱 Working on Zelara-AI, a Computer Vision webapp for Plants.
+- ✨ Created Devablos-V2, an full-stack web application, featuring an advance GPT Agent.
 - 📚 Developed Markdown to Word, Pptx, Google Docs conversion algorithms.
-- 🌱 Worked on Zelara-AI, a Computer Vision webapp for Plants.
 - 🐔 Worked on ChickenVision, a fun AR mobile app.
 - 🦄 Developed UNICorn, an AI university assistant.
 - 🎨 Mastered 3D modeling with Blender.
 - 🦊 Created WildForFood, a web Unity game.
 
 ## What I'm learning 📚
-- 🌐 Expanding my knowledge in Automation.
+- 🌐 Expanding my knowledge in Kubernetes.
 - 💡 Diving deeper into advanced programming concepts.
 
 ## Education 🎓
