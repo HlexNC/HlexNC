@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a first-year Artificial Intelligence student a
 class Developer:
     def __init__(self, name):
         self.name = name
-        self.languages = ["Kotlin", "Python", "Java", "C#"]
+        self.languages = ["Javascript", "Python", "Java", "C#"]
         self.tools = ["Visual Studio", "Git", "Jira", "AWS", "Docker"]
         self.currently_learning = "Multi-container applications"
 
